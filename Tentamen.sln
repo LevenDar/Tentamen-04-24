@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tentamen", "Tentamen\Tentamen.csproj", "{CEC361A9-679D-47B9-8EAA-806B38147C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC361A9-679D-47B9-8EAA-806B38147C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC361A9-679D-47B9-8EAA-806B38147C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC361A9-679D-47B9-8EAA-806B38147C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC361A9-679D-47B9-8EAA-806B38147C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A665D7A0-3CF8-48FC-BDD4-155B07F4BA6F}
+	EndGlobalSection
+EndGlobal
